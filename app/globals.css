@@ -392,9 +392,15 @@ a:hover {
     background-size: 24px 24px;
     opacity: 0.6;
     pointer-events: none;
+    z-index: 0;
     /* Fade pattern to edges */
     mask-image: radial-gradient(circle, black 40%, transparent 80%);
     -webkit-mask-image: radial-gradient(circle, black 40%, transparent 80%);
+}
+
+#about .container {
+    position: relative;
+    z-index: 1;
 }
 
 .bento-grid {

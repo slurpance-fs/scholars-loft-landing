@@ -88,7 +88,7 @@ export default function Home() {
         <span className="logo-text">Scholar&apos;s Loft</span>
       </a>
 
-      <a href="https://tinyurl.com/stemxlang" target="_blank" className="register-fixed btn btn-primary">Register</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSeFQsT-dXQFVY3TJ-2kW3J1jwdxlHzCb42B8HgPzqkbq8aiTg/viewform?usp=dialog" target="_blank" className="register-fixed btn btn-primary">Register</a>
 
       {/* Floating Nav */}
       <div className="floating-nav-pill">
@@ -299,7 +299,7 @@ export default function Home() {
                 <img src="/images/qr-code.png" alt="Registration QR" style={{ width: "100%", height: "100%", display: "block" }} />
               </div>
 
-              <a href="https://tinyurl.com/stemxlang" target="_blank" className="footer-btn-arrow">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeFQsT-dXQFVY3TJ-2kW3J1jwdxlHzCb42B8HgPzqkbq8aiTg/viewform?usp=dialog" target="_blank" className="footer-btn-arrow">
                 Register Now <span className="arrow">→</span>
               </a>
               <div className="footer-contact-line mt-2">
